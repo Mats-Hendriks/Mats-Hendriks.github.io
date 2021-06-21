@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
   <title>Sabrosos Nachos</title>
   <style>
