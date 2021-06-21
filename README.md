@@ -1,5 +1,5 @@
 <head>
-  <title>Sabrosos Nachos</title>
+  <title>Sabrosos Nachos!</title>
   <style>
     body {
     }
@@ -18,7 +18,8 @@
 </head>
 <body>
   <h1>Sabrosos Nachos</h1>
-  <p>Stel hier uw Sabrosos nacho's samen!</p>
+  <p>Stel je Sabrosos nacho's samen!</p>
   <input type="submit" placeholder="Bestellen">
+  <selct> tag
 </body>
 
