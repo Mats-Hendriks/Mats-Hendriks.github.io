@@ -19,7 +19,6 @@
 </head>
 <body>
   <h1>Sabrosos Nachos</h1>
-  <p>Bestel hier je nacho's</p>
-  <input type="email" placeholder="">
+  <p>Bestel hier je Sabrosos nacho's!</p>
   <input type="submit" placeholder="Bestellen">
 </body>
