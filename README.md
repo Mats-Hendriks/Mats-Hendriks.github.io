@@ -18,7 +18,7 @@
 </head>
 <body>
   <h1>Sabrosos Nachos</h1>
-  <p>Stel je Sabrosos nacho's samen!</p>
+  <p>Stel hier uw Sabrosos nacho's samen!</p>
   <input type="submit" placeholder="Bestellen">
 </body>
 
