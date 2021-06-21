@@ -20,6 +20,5 @@
   <h1>Sabrosos Nachos</h1>
   <p>Stel je Sabrosos nacho's samen!</p>
   <input type="submit" placeholder="Bestellen">
-  <selct> tag
 </body>
 
