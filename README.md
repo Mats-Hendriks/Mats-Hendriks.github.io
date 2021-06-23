@@ -2,7 +2,7 @@
   <title>Sabrosos Nachos</title>
   <style>
    body {
-   background: url("https://t3.ftcdn.net/jpg/02/07/60/42/360_F_207604263_Ak81xadMRebzBhQWka55LTHBCyRcli4m.jpg");
+   background: url("https://image.freepik.com/vrije-photo/nachos-in-zwarte-kom-op-bruine-achtergrond_23-2148254329.jpg");
     }
     input {
       border: 0;
@@ -22,7 +22,7 @@
   </style>
 </head>
 <body>
-  <h1>Sabrosos Nachos</h1>
+  <h1>Sabrosos Nachos!</h1>
   <p>Stel je Sabrosos nacho's samen!</p>
   <input type="submit" placeholder="Bestellen">
 </body>
