@@ -4,7 +4,6 @@
    body {
    background: url("https://t3.ftcdn.net/jpg/02/07/60/42/360_F_207604263_Ak81xadMRebzBhQWka55LTHBCyRcli4m.jpg");
     }
-   
     input {
       border: 0;
       padding: 10px;
