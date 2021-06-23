@@ -13,6 +13,9 @@
       background: red;
       color: white;
     }
+    h1 {
+    color: white;
+    }
   </style>
 </head>
 <body>
