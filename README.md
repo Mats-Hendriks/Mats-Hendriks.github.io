@@ -9,7 +9,7 @@
       padding: 10px;
       font-size: 18px;
     }
-    input[type="submit"] {
+    input[type="verzenden"] {
       background: red;
       color: white;
     }
