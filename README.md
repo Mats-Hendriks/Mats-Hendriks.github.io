@@ -1,11 +1,9 @@
 <head>
-  <title>Sabrososb Nachos</title>
+  <title>Sabrosos Nachos</title>
   <style>
-    body {
-    <div style="background-image: url('https://t3.ftcdn.net/jpg/02/07/60/42/360_F_207604263_Ak81xadMRebzBhQWka55LTHBCyRcli4m.jpg');">
-    }
-    
-    }
+   div {
+  background-image: url('img_girl.jpg');
+}
     input {
       border: 0;
       padding: 10px;
