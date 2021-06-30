@@ -17,7 +17,7 @@
     h1 {
     color: white;
     }
-    p {
+   p {   	
     color: white;
     }
   </style>
@@ -29,6 +29,5 @@
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Sla</p>
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Guacamole</p>
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Kaas</p>
-    <input type="submit" placeholder="Bestellen">
-</body>
-
+   <input type="submit">
+</body> 	
