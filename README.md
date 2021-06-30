@@ -22,8 +22,9 @@
   </style>
 </head>
 <body>
-  <h1>Sabrosos Nachos!</h1>
+  <h1>Sabrosos Nachos</h1>
   <p>Stel je Sabrosos nacho's samen!</p>
   <input type="submit" placeholder="Bestellen">
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
 </body>
 
