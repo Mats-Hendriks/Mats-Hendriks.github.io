@@ -24,10 +24,10 @@
 <body>
   <h1>Sabrosos Nachos</h1>
   <p>Stel je Sabrosos nacho's samen!</p>
-  <p>Tomaten</p> <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-    <p>Sla</p> <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-    <p>Guacamole</p>  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-    <p>Kaas</p> <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Tomaten</p> 
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Sla</p>
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Guacamole</p>
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Kaas</p>
     <input type="submit" placeholder="Bestellen">
 </body>
 
