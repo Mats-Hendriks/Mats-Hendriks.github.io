@@ -3,13 +3,14 @@
   <style>
    body {
    background: url("https://image.freepik.com/vrije-photo/nachos-in-zwarte-kom-op-bruine-achtergrond_23-2148254329.jpg");
+    background-size: cover;
     }
     input {
       border: 0;
       padding: 10px;
       font-size: 18px;
     }
-    input[type="submit"] {
+    input {
       background: red;
       color: white;
     }
