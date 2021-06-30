@@ -10,6 +10,8 @@
       padding: 10px;
       font-size: 18px;
     }
+    input {
+     color: red;
     h1 {
     color: white;
     }
@@ -26,5 +28,5 @@
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Guacamole</p>
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Kaas</p>
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><p>Sabrosos saus</p>
-<input type="submit" placeholder="Bestellen">
+<input type="email" placeholder="Bestellen">
 </body> 	
